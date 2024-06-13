@@ -1,3 +1,4 @@
+
 # TicTacToe Game
 
 Welcome to the TicTacToe game! This is a simple implementation of the classic TicTacToe game using HTML, CSS, and JavaScript.
@@ -30,7 +31,7 @@ To get a copy of this project up and running on your local machine, follow these
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/tictactoe.git
+   git clone https://github.com/Ritulkr/TicTacToe.git
    ```
 2. **Navigate to the project directory:**
    ```bash
