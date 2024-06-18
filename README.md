@@ -1,4 +1,3 @@
-
 # TicTacToe Game
 
 Welcome to the TicTacToe game! This is a simple implementation of the classic TicTacToe game using HTML, CSS, and JavaScript.
